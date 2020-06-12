@@ -1,0 +1,37 @@
+{
+    "name": "theme-arkaios",
+    "version": "0.0.5",
+    "displayName": "Arkaios Theme",
+    "description": "Dream Theme",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "maintainers": [
+        "Matheus O Vilela <vilela.matheus@outlook.com"
+    ],
+    "keywords": [
+        "arkaios",
+        "dark",
+        "theme",
+        "color-theme"
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+        "color": "#3c4557",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Arkaios Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/arkaios.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "yarn": "^1.22.4"
+    }
+}
