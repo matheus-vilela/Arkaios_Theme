@@ -1,7 +1,5 @@
 import React from 'react';
-import {
-  Animated, Text, View, ScrollView, TouchableOpacity,
-} from 'react-native';
+import { Animated, Text, View, ScrollView, TouchableOpacity } from 'react-native';
 import { MaterialIcons } from '@expo/vector-icons';
 
 
