@@ -19,6 +19,13 @@
         "Themes",
         "Other"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vilelagit/Arkaios_Theme"
+        },
+        "bugs": {
+            "url": "https://github.com/vilelagit/Arkaios_Theme/issues"
+        },
     "galleryBanner": {
         "color": "#21222C",
         "theme": "dark"
