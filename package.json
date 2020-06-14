@@ -1,6 +1,6 @@
 {
     "name": "theme-arkaios",
-    "version": "0.0.6",
+    "version": "0.1.0",
     "displayName": "Arkaios Theme",
     "description": "Um tema no melhor estilo dark.",
     "publisher": "vilela",
@@ -24,10 +24,10 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/vilelagit/Arkaios_Theme"
-        },
-        "bugs": {
-            "url": "https://github.com/vilelagit/Arkaios_Theme/issues"
-        },
+    },
+    "bugs": {
+        "url": "https://github.com/vilelagit/Arkaios_Theme/issues"
+    },
     "galleryBanner": {
         "color": "#21222C",
         "theme": "dark"
@@ -41,5 +41,4 @@
             }
         ]
     }
-    
 }
