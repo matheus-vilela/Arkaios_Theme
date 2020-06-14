@@ -3,6 +3,7 @@
     "version": "0.0.5",
     "displayName": "Arkaios Theme",
     "description": "Um tema no melhor estilo dark",
+    "publisher": "arkaios-theme",
     "engines": {
         "vscode": "^1.45.0"
     },
