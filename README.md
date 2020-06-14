@@ -2,7 +2,8 @@
 
 > A dark experimental theme for [Visual Studio Code](http://code.visualstudio.com).
 
-![Screenshot](https://i.ibb.co/7Gm15d0/screen.png)
+![screen](https://user-images.githubusercontent.com/64048192/84603042-cb0e6380-ae61-11ea-84c2-fd257e9f7a13.png)
+
 
 ## Install
 
