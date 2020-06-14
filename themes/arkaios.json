@@ -1085,6 +1085,15 @@
       }
     },
     {
+      "name": "Strings HTML",
+      "scope": [
+        "string.quoted.double.html"
+      ],
+      "settings": {
+        "foreground": "#b2c2d7"
+      }
+    },
+    {
       "name": "String quotes (temporary vscode fix)",
       "scope": [
         "punctuation.definition.string.begin",
