@@ -1,9 +1,9 @@
 {
     "name": "theme-arkaios",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "displayName": "Arkaios Theme",
-    "description": "Um tema no melhor estilo dark",
-    "publisher": "arkaios-theme",
+    "description": "Um tema no melhor estilo dark.",
+    "publisher": "vilela",
     "engines": {
         "vscode": "^1.45.0"
     },
@@ -20,6 +20,7 @@
         "Themes",
         "Other"
     ],
+    "icon": "icon.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/vilelagit/Arkaios_Theme"
