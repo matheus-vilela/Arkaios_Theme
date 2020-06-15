@@ -2,11 +2,9 @@
   "name": "Arkaios Theme",
   "type": "dark",
   "author": "Matheus Vilela",
-  "maintainers": 
-    "Matheus Vilela <vilela.matheus@outlook.com>",
+  "maintainers": "Matheus Vilela <vilela.matheus@outlook.com>",
   "semanticClass": "theme.arkaios",
   "semanticHighlighting": true,
-  
   "arkaios": {
     "geral": [
       "#282A36", 
@@ -45,6 +43,7 @@
       "#21222C",
       "#191A21",
       "#424450",
+      "#b2c2d620",
       "#b2c2d635",
       "#b2c2d650",
       "#b2c2d775",
@@ -319,7 +318,7 @@
     "editorSuggestWidget.border": null,
     "editorSuggestWidget.background": "#21222C",
     "editorSuggestWidget.foreground": "#F8F8F2",
-    "editorSuggestWidget.selectedBackground": "#b2c2d6",
+    "editorSuggestWidget.selectedBackground": "#b2c2d635",
     "editorSuggestWidget.highlightForeground": null,
     "editorOverviewRuler.currentContentForeground": "#76a6e0",
     "editorOverviewRuler.incomingContentForeground": "#8968c6",

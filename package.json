@@ -4,9 +4,7 @@
     "displayName": "Arkaios Theme",
     "description": "Um tema no melhor estilo dark.",
     "publisher": "vilela",
-    "engines": {
-        "vscode": "^1.45.0"
-    },
+    "license": "MIT",
     "maintainers": [
         "Matheus Vilela <vilela.matheus@outlook.com"
     ],
@@ -27,6 +25,9 @@
     },
     "bugs": {
         "url": "https://github.com/vilelagit/Arkaios_Theme/issues"
+    },
+    "engines": {
+        "vscode": "^1.45.0"
     },
     "galleryBanner": {
         "color": "#21222C",

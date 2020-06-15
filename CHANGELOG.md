@@ -1,8 +1,15 @@
 # Changelog
 
+## 0.1.2
+
+- Color adjustment in "editorSuggestWidget"
+
+## 0.1.1
+
+- Color adjustment.
+
 ## 0.1.0
 
-- Change Maintainers
-- Add Markdown Syntax.
+- Color adjustment.
 
-Please feel free to request changes or leave feedback.
+================================================================================

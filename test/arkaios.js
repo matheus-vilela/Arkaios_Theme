@@ -2,12 +2,11 @@ import React from 'react';
 import { Animated, Text, View, ScrollView, TouchableOpacity } from 'react-native';
 import { MaterialIcons } from '@expo/vector-icons';
 
-
 import styles from './styles';
 
 export default function Tabs({ translateY }) {
+  
   return (
-
     <Animated.View
       style={{
         transform: [{
@@ -17,11 +16,6 @@ export default function Tabs({ translateY }) {
             extrapolate: 'clamp',
           }),
         }],
-        opacity: translateY.interpolate({
-          inputRange: [0, 180],
-          outputRange: [1, 0.3],
-          extrapolate: 'clamp',
-        }),
       }}
     >
       <ScrollView
@@ -31,27 +25,26 @@ export default function Tabs({ translateY }) {
         <View style={styles.tabs}>
           <TouchableOpacity style={styles.cardtab}>
             <MaterialIcons name="person-add" size={26} color="#FFF" />
-            <Text style={styles.textcardtab}>Teste 1 </Text>
+            <Text style={styles.textcardtab}>Test 1 </Text>
           </TouchableOpacity>
           <TouchableOpacity style={styles.cardtab}>
             <MaterialIcons name="person-add" size={26} color="#FFF" />
-            <Text style={styles.textcardtab}>Teste 2 </Text>
+            <Text style={styles.textcardtab}>Test 2 </Text>
           </TouchableOpacity>
           <TouchableOpacity style={styles.cardtab}>
             <MaterialIcons name="person-add" size={26} color="#FFF" />
-            <Text style={styles.textcardtab}>Teste 3 </Text>
+            <Text style={styles.textcardtab}>Test 3 </Text>
           </TouchableOpacity>
           <TouchableOpacity style={styles.cardtab}>
             <MaterialIcons name="person-add" size={26} color="#FFF" />
-            <Text style={styles.textcardtab}>Teste 4 </Text>
+            <Text style={styles.textcardtab}>Test 4 </Text>
           </TouchableOpacity>
           <TouchableOpacity style={styles.cardtab}>
             <MaterialIcons name="person-add" size={26} color="#FFF" />
-            <Text style={styles.textcardtab}>Teste 5 </Text>
+            <Text style={styles.textcardtab}>Test 5 </Text>
           </TouchableOpacity>
         </View>
       </ScrollView>
     </Animated.View>
-
   );
 }
