@@ -1,16 +1,15 @@
-<h1 align="center" href:="http://code.visualstudio.com">Arkaios Theme for Visual Studio Code</h1>
-
+<h1 align="center" href:="http://code.visualstudio.com">Arkaios Theme for <a href="https://code.visualstudio.com">Visual Studio Code</a></h1>
+<h3 align="center"> A dark experimental theme for <a href="https://code.visualstudio.com">Visual Studio Code</a>.</h3>
 <p align="center">
   <img alt="Visual Studio Marketplace Version" src="https://img.shields.io/visual-studio-marketplace/v/vilela.theme-arkaios?color=%2383dbee&style=for-the-badge">
   <img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/vilela.theme-arkaios?color=%23b685d5&style=for-the-badge">
   <img alt="Visual Studio Marketplace Rating (Stars)" src="https://img.shields.io/visual-studio-marketplace/stars/vilela.theme-arkaios?color=%2376a6e0&style=for-the-badge">
   
 </p>
-
-> A dark experimental theme for [Visual Studio Code](http://code.visualstudio.com).
-
-![screen](https://user-images.githubusercontent.com/64048192/84603042-cb0e6380-ae61-11ea-84c2-fd257e9f7a13.png)
-
+<p align="center">
+ 
+  <img alt="screen" src="https://user-images.githubusercontent.com/64048192/84603042-cb0e6380-ae61-11ea-84c2-fd257e9f7a13.png">
+  </p>
 
 
 ***
