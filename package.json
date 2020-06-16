@@ -1,45 +1,45 @@
 {
-    "name": "theme-arkaios",
-    "version": "0.1.1",
-    "displayName": "Arkaios Theme",
-    "description": "Um tema no melhor estilo dark.",
-    "publisher": "vilela",
-    "license": "MIT",
-    "maintainers": [
-        "Matheus Vilela <vilela.matheus@outlook.com"
-    ],
-    "keywords": [
-        "arkaios",
-        "dark",
-        "theme",
-        "color-theme"
-    ],
-    "categories": [
-        "Themes",
-        "Other"
-    ],
-    "icon": "icon.png",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/vilelagit/Arkaios_Theme"
-    },
-    "bugs": {
-        "url": "https://github.com/vilelagit/Arkaios_Theme/issues"
-    },
-    "engines": {
-        "vscode": "^1.45.0"
-    },
-    "galleryBanner": {
-        "color": "#21222C",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Arkaios Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/arkaios.json"
-            }
-        ]
-    }
+  "name": "theme-arkaios",
+  "version": "0.1.2",
+  "displayName": "Arkaios Theme",
+  "description": "Um tema no melhor estilo dark.",
+  "publisher": "vilela",
+  "license": "MIT",
+  "maintainers": [
+    "Matheus Vilela <vilela.matheus@outlook.com"
+  ],
+  "keywords": [
+    "arkaios",
+    "dark",
+    "theme",
+    "color-theme"
+  ],
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vilelagit/Arkaios_Theme"
+  },
+  "bugs": {
+    "url": "https://github.com/vilelagit/Arkaios_Theme/issues"
+  },
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "galleryBanner": {
+    "color": "#21222C",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arkaios Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arkaios.json"
+      }
+    ]
+  }
 }
