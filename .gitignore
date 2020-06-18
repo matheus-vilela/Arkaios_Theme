@@ -1,4 +1,5 @@
 test/*
 .DS_Store
 vsc-extension-quickstart.md
-theme-arkaios-0.1.2.vsix
+theme-arkaios-*
+test.json
