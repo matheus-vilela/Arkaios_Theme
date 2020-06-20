@@ -99,9 +99,9 @@
     "titleBar.inactiveForeground": "#5b6074",
 
     "scrollbar.shadow": null,
-    "scrollbarSlider.activeBackground": null,
     "scrollbarSlider.background": null,
     "scrollbarSlider.hoverBackground": null,
+    "scrollbarSlider.activeBackground": null,
 
     "breadcrumb.foreground": "#5b6074",
     "breadcrumb.background": "#282A36",
@@ -122,13 +122,13 @@
     "list.inactiveSelectionBackground": "#5b607475",
     "list.inactiveSelectionForeground": null,
 
-    "activityBar.background": "#343746",
-    "activityBar.inactiveForeground": "#5b6074",
-    "activityBar.dropBackground": null,
-    "activityBar.foreground": "#F8F8F2",
     "activityBar.border": null,
+    "activityBar.background": "#343746",
+    "activityBar.foreground": "#F8F8F2",
     "activityBar.activeBorder": "#83dbee",
+    "activityBar.dropBackground": null,
     "activityBar.activeBackground": "#343746",
+    "activityBar.inactiveForeground": "#5b6074",
     "activityBarBadge.background": "#83dbee",
     "activityBarBadge.foreground": "#F8F8F2",
 
@@ -329,7 +329,7 @@
     "editorMarkerNavigationError.background": null,
     "editorMarkerNavigationWarning.background": null,
     "editorRuler.foreground": "#FFFFFF1A",
-    "editorCursor.foreground": null,
+    "editorCursor.foreground": "#DB9213",
     "editorCodeLens.foreground": "#5b6074",
     "editorLineNumber.foreground": "#5b6074",
     "editorLink.activeForeground": "#b2c2d7",
