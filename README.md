@@ -6,7 +6,7 @@
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/vilela.theme-arkaios?color=%23b685d5&style=for-the-badge)
 ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/vilela.theme-arkaios?color=%2376a6e0&style=for-the-badge)
 
-![Screen](https://raw.githubusercontent.com/vilelagit/Arkaios_Theme/master/screen.png?token=APIUYQBESIZRFQJU2CYN6A266FEMK)
+![Screen](https://i.ibb.co/5GKKMRY/screen.png)
 
 ***
 ## ✅ Install
