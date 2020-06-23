@@ -1,12 +1,12 @@
 {
   "name": "theme-arkaios",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "displayName": "Arkaios Theme",
   "description": "A theme in the best dark style.",
   "publisher": "vilela",
   "license": "MIT",
   "maintainers": [
-    "Matheus Vilela <vilela.matheus@outlook.com"
+    "Matheus Vilela <vilela.matheus@outlook.com>"
   ],
   "keywords": [
     "arkaios",
