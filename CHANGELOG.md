@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.4
+
+- Color semanticHighlighting adjustment.
+
+## 0.1.3
+
+- Color adjustment in "terminal."
+
 ## 0.1.2
 
 - Color adjustment in "editorSuggestWidget"
