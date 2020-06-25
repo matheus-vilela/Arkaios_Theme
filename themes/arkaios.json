@@ -4,7 +4,6 @@
   "author": "Matheus Vilela",
   "maintainers": "Matheus Vilela <vilela.matheus@outlook.com>",
   "semanticClass": "theme.arkaios",
-  "semanticHighlighting": true,
   "arkaios": {
     "editor": [
       "#282A36",
@@ -29,7 +28,6 @@
       "#b2c2d7",
       "#F8F8F2",
       "#FFFFFF",
-      "#76a6e0",
       "#D6ACFF",
       "#DB9213",
       "#FF5555"
