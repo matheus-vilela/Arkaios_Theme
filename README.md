@@ -23,7 +23,7 @@
 
 ```bash
 
-$ "editor.semanticHighlighting.enabled": true,
+  "editor.semanticHighlighting.enabled": true,
 
 ```
 
