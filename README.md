@@ -3,9 +3,7 @@
 ### A dark experimental theme.
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/vilela.theme-arkaios?color=%2383dbee&style=for-the-badge)
-
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/vilela.theme-arkaios?color=%23b685d5&style=for-the-badge)
-
 ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/vilela.theme-arkaios?color=%2376a6e0&style=for-the-badge)
 
 ![Screen](https://i.ibb.co/5GKKMRY/screen.png)
