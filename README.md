@@ -17,12 +17,11 @@
 > Open VS Code extensions and type `Arkaios Theme`.
 
 
-###### Optional:
+#### Optional:
 
 > Add in `Settings (JSON) in VSCode`.
 
 ```bash
-
   "editor.semanticHighlighting.enabled": true,
 
 ```
