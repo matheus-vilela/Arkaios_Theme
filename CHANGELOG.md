@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.0
+
+- Color adjustment and optional semanticHighlighting.
+
 ## 0.1.4
 
 - Color semanticHighlighting adjustment.
