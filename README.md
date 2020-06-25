@@ -12,11 +12,12 @@
 
 ## ✅ Install
 
-Install it from VS Code extensions.
+#### Install it from VS Code extensions.
 
 > Open VS Code extensions and type `Arkaios Theme`.
 
-Optional:
+
+###### Optional:
 
 > Add in `Settings (JSON) in VSCode`.
 
