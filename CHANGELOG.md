@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.2
+
+- Patch adjustment error semantic.
+
+## 1.0.1
+
+- Patch adjustment error.
+
 ## 1.0.0
 
 - Color adjustment and optional semanticHighlighting.
