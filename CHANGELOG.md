@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.4
+
+- Adjustment color punctuation.
+
 ## 1.0.3
 
 - Update README.md
