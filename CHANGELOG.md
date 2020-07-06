@@ -3,7 +3,7 @@
 
 ## 1.0.6
 
-- Adjustment semanticHighlighting.
+- Adjustment semanticHighlighting: true.
 
 ## 1.0.5
 
