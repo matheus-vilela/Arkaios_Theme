@@ -22,7 +22,7 @@
 > Add in `Settings (JSON) in VSCode`.
 
 ```bash
-  "editor.semanticHighlighting.enabled": true,
+  "editor.semanticHighlighting.enabled": false,
 
 ```
 
