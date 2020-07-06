@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 1.0.6
+
+- Adjustment semanticHighlighting.
+
 ## 1.0.5
 
 - Adjustment color IndentGuide.
