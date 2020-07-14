@@ -886,7 +886,7 @@
         "punctuation.section.scope.end",
         "storage.type.generic.java",
         "string.template meta.brace",
-        "string.template punctuation.accessor",
+        "string.template punctuation.accessor"
       ],
       "settings": {
         "foreground": "#F8F8F2"
