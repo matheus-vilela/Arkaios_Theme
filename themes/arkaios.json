@@ -861,7 +861,8 @@
         "punctuation.separator.slice",
         "string.unquoted.heredoc punctuation.definition.string",
         "support.other.chomping-indicator.yaml",
-        "punctuation.separator.annotation"
+        "punctuation.separator.annotation",
+        "punctuation.accessor.optional"
       ],
       "settings": {
         "foreground": "#83dbee"
@@ -885,7 +886,7 @@
         "punctuation.section.scope.end",
         "storage.type.generic.java",
         "string.template meta.brace",
-        "string.template punctuation.accessor"
+        "string.template punctuation.accessor",
       ],
       "settings": {
         "foreground": "#F8F8F2"
