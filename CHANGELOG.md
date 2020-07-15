@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.7
+
+- Adjustment color punctuation.
 
 ## 1.0.6
 

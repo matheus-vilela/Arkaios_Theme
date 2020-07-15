@@ -818,7 +818,13 @@
       "scope": [
         "support.function.magic",
         "support.variable",
-        "variable.other.predefined"
+        "variable.other.predefined",
+        "punctuation.section.embedded.begin",
+        "punctuation.section.embedded.begin.tsx",
+        "punctuation.section.embedded.begin.jsx",
+        "punctuation.section.embedded.end",
+        "punctuation.section.embedded.end.tsx",
+        "punctuation.section.embedded.end.jsx"
       ],
       "settings": {
         "fontStyle": "regular",
@@ -900,15 +906,9 @@
         "punctuation.definition.interpolation.end",
         "punctuation.definition.template-expression.begin",
         "punctuation.definition.template-expression.end",
-        "punctuation.section.embedded.begin",
-        "punctuation.section.embedded.begin.tsx",
-        "punctuation.section.embedded.begin.jsx",
-        "punctuation.section.embedded.coffee",
-        "punctuation.section.embedded.end",
-        "punctuation.section.embedded.end.tsx",
-        "punctuation.section.embedded.end.jsx",
         "punctuation.section.embedded.end source.php",
         "punctuation.section.embedded.end source.ruby",
+        "punctuation.section.embedded.coffee",
         "punctuation.definition.variable.makefile"
       ],
       "settings": {
@@ -1013,7 +1013,8 @@
       "scope": [
         "string.regexp",
         "constant.other.character-class.set.regexp",
-        "constant.character.escape.backslash.regexp"
+        "constant.character.escape.backslash.regexp",
+        "punctuation.definition.binding-pattern.object"
       ],
       "settings": {
         "foreground": "#b685d5"
